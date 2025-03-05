@@ -1,6 +1,8 @@
 # Development Assistant Starter
 
-A Streamlit-based application that leverages AI to assist with software development tasks. The application uses LangChain, OpenAI, and LangGraph to create an intelligent coding assistant that can help with code generation, testing, and debugging.
+A Streamlit-based application that leverages AI to assist with software development tasks. The application uses LangChain, OpenAI, and LangGraph to create an intelligent coding assistant that can help with code generation, testing, and debugging. 
+
+See Blog post / tutorial here: https://www.ernovuori.com/ai-development-assistant/
 
 ## Overview
 ![Development Assistant Architecture](static/development-assistant-starter.drawio.png)
