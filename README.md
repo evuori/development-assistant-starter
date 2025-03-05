@@ -2,6 +2,9 @@
 
 A Streamlit-based application that leverages AI to assist with software development tasks. The application uses LangChain, OpenAI, and LangGraph to create an intelligent coding assistant that can help with code generation, testing, and debugging.
 
+## Overview
+![Development Assistant Architecture](static/development-assistant-starter.drawio.png)
+
 ## Features
 
 - Interactive web interface built with Streamlit
@@ -76,20 +79,10 @@ streamlit run app.py
 - duckduckgo-search >= 4.1.1
 - python-dotenv >= 1.0.0
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
+## Author
+Erno Vuori (erno.vuori@gmail.com)
 
 ## License
 
 [Add your license information here]
-
-## Acknowledgments
-
-- OpenAI for providing the language models
-- LangChain team for the framework
-- Streamlit team for the web interface framework 
+ 

@@ -263,8 +263,8 @@ def create_workflow(coder, tester_agent, execution, refine_code):
     return workflow.compile()
 
 def main():
-    st.title("MAD Machine Assisted Development")
-    st.subheader("by Erno Vuori (erno.vuori@almamedia.fi)")
+    st.title("Development Assistant Starter")
+    st.subheader("by Erno Vuori (erno.vuori@gmail.com)")
     
     # Setup environment and create agents
     llm = setup_environment()
